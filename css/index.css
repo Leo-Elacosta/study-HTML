@@ -47,8 +47,22 @@ h4 {
     line-height: 2px;
 }
 
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #CD853F;
+    font-size: 25px;
+    border-top: 2px solid #CD853F;
+    border-bottom: 2px solid #CD853F;
+    line-height: normal;
+}
+
 p {
     font-family: Verdana;
     font-size: 15px;
     line-height: 20px;
+}
+
+span {
+    font-weight: bold;
+    color: crimson;
 }
